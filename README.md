@@ -13,3 +13,7 @@ Requires SDL2 and SDL_image libraries and can be compiled on Windows (Visual Stu
 
 ![Alt text](/screenshots/MachinesHaveRandomAttributes2.jpg?raw=true "attributes2")
 
+![Alt text](/screenshots/ArmsDealerHideout.jpg?raw=true "Hideout")
+
+![Alt text](/screenshots/NPCAttackingAnotherNPC.jpg?raw=true "npcattack")
+

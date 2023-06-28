@@ -17,6 +17,6 @@ Requires SDL2 and SDL_image libraries and can be compiled on Windows (Visual Stu
 
 ![Alt text](/screenshots/NPCAttackingAnotherNPC.jpg?raw=true "npcattack")
 
-![Alt text](/screenshots/SpecialLevel2.jpg?raw=true "transaction")
+![Alt text](/screenshots/SpecialLevel2.jpg?raw=true "boss2")
 
 

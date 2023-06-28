@@ -451,11 +451,11 @@ void printMainMenu()
     addGFXString(colorpair_darkgray_black,"             |__| _ || _   _ (_   | |_  _   /\\  _|   _ _ _ _  _",             1,21);
     addGFXString(colorpair_darkgray_black,"             |  |(_|||_)  (_)|    | | )(-  /--\\(_|\\/(-| _)(_|| \\/",         1,22);
     addGFXString(colorpair_darkgray_black,"                                                               /",             1,23);
-    addGFXString(colorpair_white_black,"                         www.github.com/ESWolfson89/spire         ",              1,24);
+    addGFXString(colorpair_white_black,"                  www.github.com/ESWolfson89/Halls-Of-The-Adversary",             1,24);
     addGFXString(colorpair_white_black,"                                                                  ",              1,25);
     addGFXString(colorpair_white_black,"                    Press a key to start a new game (q to quit)   ",              1,26);
     addGFXString(colorpair_white_black,"                                                                  ",              1,27);
-    addGFXString(colorpair_white_black,"                           Copyright Eric Wolfson 2018            ",              1,28);
+    addGFXString(colorpair_white_black,"                          Copyright Eric Wolfson 2016-2023        ",              1,28);
 }
 
 void displayHelpScreen()

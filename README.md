@@ -1,7 +1,7 @@
 # Halls-Of-The-Adversary
 An ascii roguelike game
 
-Copyright Eric Wolfson 2016-2023
+Copyright Eric Wolfson 2015-2023
 
 Requires SDL2 and SDL_image libraries and can be compiled on Windows (Visual Studio) or linux
 

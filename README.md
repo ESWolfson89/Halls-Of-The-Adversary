@@ -7,4 +7,9 @@ Requires SDL2 and SDL_image libraries and can be compiled on Windows (Visual Stu
 
 ![Alt text](/screenshots/Casino1.jpg?raw=true "Casino1")
 
+![Alt text](/screenshots/SpecialLevelLayout.jpg?raw=true "SpecialLevelLayout")\
+
+![Alt text](/screenshots/SatelliteTransaction.jpg?raw=true "transaction")
+
 ![Alt text](/screenshots/MachinesHaveRandomAttributes2.jpg?raw=true "attributes2")
+

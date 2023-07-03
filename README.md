@@ -35,6 +35,4 @@ Licensed under GNU (General Public License) GPL version 3. See LICENSE.txt for m
 
 ![Alt text](/screenshots/FinalBoss.jpg?raw=true "boss3")
 
-![Alt text](/screenshots/SpecialLevel2.jpg?raw=true "boss2")
-
 
